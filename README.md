@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">I'm Information Systems Engineer - Skills: Graphic Designer, Programming, DB admin</h3>
+<h3 align="center">I'm Information Systems Engineer - Skills: Graphic Designer, Programming, DB admin, Full stack developer</h3>
 
-- 🌱 I’m currently learning **AEM Adobe, Analysis Services**
+- 🌱 I’m currently learning **node Js**
 
 - 📫 How to reach me **davidrivera3096@gmail.com**
 
@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/msc_rivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msc_rivera" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/david-rivera-79439a223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/david-rivera-79439a223" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/elgurútecnológico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elgurútecnológico" height="30" width="40" /></a>
+<a href="[[https://www.youtube.com/c/elgurútecnológico](https://www.youtube.com/watch?v=3MVApf8Kqeg&ab_channel=DaferiLA)](https://www.youtube.com/watch?v=3MVApf8Kqeg&ab_channel=DaferiLA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elgurútecnológico" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
